@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.menubar{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+}
+.bckgrnd{
+    background-image: url(/assets/pictures/megh.webp);
+    height: 600px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lekha{
+    text-indent: 300px;
+    margin-top: 150px;
+}
+button{
+    height: 30px;
+    width: 120px;
+}
+
+.service{
+    display: grid;
+    grid-template-columns: repeat(5,0fr);
+    grid-gap: 30px;
+}
+.box{
+    border: 1px solid white;
+    height: 290px;
+    width: 200px;
+    border-radius: 15px;
+    margin: 15px;
+    background-color: bisque;
+    margin-left: 30px;
+}
+.box img{
+    height: 240px;
+    width: 200px;
+    border-radius: 15px
+}
+.mnu{
+    text-align: center;
+}
+.pdr{
+    background-image: url(/assets/pictures/cube.webp);
+    height: 600px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hding{
+    padding-top: 40px;
+}
+.pic img{
+    height: 350px;
+    width: 350px;
+}
+.pic{
+    display: flex;
+    padding: 50px;
+    padding-left: 300px;
+    text-indent: 40px;
+}
+
+.pdr2{
+    padding-top: 60px;
+}
+.para{
+    color: white;
+    font-size: x-small;
+}
+.client{
+    margin-top: 50px;
+}
+.crd{
+    padding-left: 110px;
+    display: flex;
+}
+.crdtxt{
+    padding-top: 80px;
+}

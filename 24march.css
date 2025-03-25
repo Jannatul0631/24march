@@ -90,3 +90,67 @@ button{
 .crdtxt{
     padding-top: 80px;
 }
+.cmpny img{
+    height: 100px;
+    width: 200px;
+}
+.cmpny{
+    margin: 40px;
+    padding-left: 20px;
+}
+.mits{
+    background-image: url(/assets/pictures/sky.jpg);
+    height: 600px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.itsupport{
+    padding-top: 80px;
+}
+.inside1{
+    padding: 70px;
+    padding-left: 100px;
+}
+.togather{
+    display: flex;
+}
+.togather img{
+    height: 350px;
+    width: 450px;
+}
+.lftpara{
+    color: azure;
+    font-size: x-small;
+}
+.a{
+    display: flex;
+    justify-content: center; 
+}
+/* .dbl{
+    padding-top: 50px
+} */
+.double{
+    background-image: url(/assets/pictures/nature.jpg);
+    height: 300px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.double2{
+    background-image: url(/assets/pictures/nature2.jpg);
+    height: 400px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nmbr{
+    border: 1px solid orange;
+    border-radius: 10px;
+    font-size: larger;
+    height: 50px;
+    width: 200px;
+    background-color: darkblue;
+    color: yellow;
+}
+
